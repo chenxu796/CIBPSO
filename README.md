@@ -1,5 +1,2 @@
 # CIBPSO
-Collective information-based particle swarm optimization
-
-
-To be released after the acception of the CIBPSO paper.
+[1] Xu Chen, et al. Collective information-based particle swarm optimization for multi-fuel CHP economic dispatch problem[J]. Knowledge-Based Systems, 2022 
